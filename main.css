@@ -1,0 +1,531 @@
+.facebookimg{
+    width:19%;
+    margin-left: 585px;
+    margin-bottom: 25px;
+}
+form{
+    background:#fff;
+    width: 425px;
+    margin-left: 520px;
+    margin-top:-3%;
+height:567px;
+position: relative;
+box-sizing: border-box;
+border-radius: 8px;
+box-shadow: 0px 3px 10px 0px rgba(0, 0, 0, 0.3);
+}
+.form-text1{
+    padding-left:20%;
+    font-size:25px ;
+    font-family: sans-serif;
+    padding-bottom: 2%;
+}
+.form-text2{
+    font-size: 15px;
+    line-height: 24px;
+    text-align: center;
+margin-right: 25%;
+margin-top:-10% ;
+color: #606770;
+font-family: SFProText-Regular, Helvetica, Arial, sans-serif;
+font-weight: lighter;
+}
+.first{
+    border-radius: 5px;
+    font-family: SFProDisplay-Regular, Helvetica, Arial, sans-serif;
+    line-height: 230%;
+    float: left;
+   margin-left: -20%;
+   margin-top: 5px;
+   width: 180px;
+   border: 1px solid #ccd0d5;
+   font-size: 15px;
+   outline:none;
+}
+hr{
+    margin-left: -85px;
+    border:none;
+    border-top:1px solid  #d9d9d9;
+
+}
+.first::placeholder{
+    color: #949699;
+    text-indent: 10px;
+}
+.Second{
+    border-radius: 5px;
+    font-family: SFProDisplay-Regular, Helvetica, Arial, sans-serif;
+    line-height: 230%;
+   margin-left: 10px;
+   margin-top: 5px;
+   width: 190px;
+   font-size: 15px;
+   border: 1px solid #ccd0d5;
+   float:left;
+   outline:none;
+}
+.Second::placeholder{
+    color: #949699;
+    text-indent: 10px;
+}
+.third{
+    width:114%;
+    border-radius: 5px;
+    font-family: SFProDisplay-Regular, Helvetica, Arial, sans-serif;
+    font-size: 15px;
+    border: 1px solid #ccd0d5;
+    line-height: 230%;
+    margin-top: 10px;
+   margin-left: -68px;
+   outline:none;
+}
+.third::placeholder{ 
+    color: #949699;
+    text-indent: 10px;
+}
+.fourth{
+    border-radius: 5px;
+    font-family: SFProDisplay-Regular, Helvetica, Arial, sans-serif;
+    font-size: 15px;
+    border: 1px solid #ccd0d5;
+    line-height: 230%;
+    margin-top: 10px;
+    margin-left: -68px;
+    width:114%;
+    outline:none;
+    margin-bottom:5px ;
+}
+.fourth::placeholder{
+    color: #949699;
+    text-indent: 10px;
+}
+.birth{
+    font-family: SFProDisplay-Regular, Helvetica, Arial, sans-serif; 
+    text-align:left;
+    color:#606770;
+    font-size: 12px;
+    font-weight:lighter;
+    line-height: 20px;
+    margin-left: -68px;
+    font-weight: 1px;
+}
+.qstynmrk{
+    color: #fff;
+    border-radius: 100%;
+    background-color:#606770;
+    height: 9px;
+    width:12px;
+    justify-content: center;
+    font-size: 10px;
+    align-items:center;
+    display: flex;
+   margin-left: 1px; 
+   padding-top: 3px;
+   margin-top:-16px;
+   margin-bottom:-20px;
+   }
+#dob-day{
+    border-radius: 5px;
+    font-family: SFProDisplay-Regular, Helvetica, Arial, sans-serif;
+    font-size: 15px;
+    border: 1px solid #ccd0d5;
+    line-height: 230%;
+    margin-left: -68px;
+    width: 122px;
+    height: 36px;
+    outline:none;
+    margin-bottom: 3px;
+}
+#dob-month{
+    line-height: '';
+    border-radius: 5px;
+    font-family: SFProDisplay-Regular, Helvetica, Arial, sans-serif;
+    font-size: 15px;
+    height: 36px;
+    width:122px;
+    outline:none;
+    border: 1px solid #ccd0d5;
+    margin-left:6px;
+}
+#dob-year{
+    margin-left: 5px;
+    outline:none;
+    width:122px;
+    height: 36px;
+    line-height: '';
+    border-radius: 5px;
+    font-family: SFProDisplay-Regular, Helvetica, Arial, sans-serif;
+    font-size: 15px;
+    border: 1px solid #ccd0d5;
+}
+.mf{
+    font-family: SFProDisplay-Regular, Helvetica, Arial, sans-serif; 
+    text-align:left;
+    color:#606770;
+    font-size: 12px;
+    font-weight:lighter;
+    line-height: 20px;
+    margin-left: -68px;
+    font-weight: 1px;
+}
+.qstynmrk2{
+    color: #fff;
+    border-radius: 100%;
+    background-color:#606770;
+    height: 9px;
+    width:12px;
+    justify-content: center;
+    font-size: 10px;
+    align-items:center;
+    display: flex;
+   margin-left: -23px; 
+   padding-top: 3px;
+   margin-top:-16px;
+   margin-bottom:-20px;
+   }
+   .female{
+    border-radius: 5px;
+    font-family: SFProDisplay-Regular, Helvetica, Arial, sans-serif;
+    font-size: 15px;
+    border: 1px solid #ccd0d5;
+    line-height: 230%;
+    margin-left: -68px;
+    width: 121px;
+    height: 36px;
+    outline:none;
+    text-indent: 10px;
+    margin-bottom: 3px;
+   }
+   .male{
+        margin-left:135px;
+        outline:none;
+        width:121px;
+        margin-top:-34px;
+        line-height:230%;
+        border-radius: 5px;
+        font-family: SFProDisplay-Regular, Helvetica, Arial, sans-serif;
+        font-size: 15px;
+        border: 1px solid #ccd0d5;
+    
+   }
+   .custom{
+    border-radius: 5px;
+    font-family: SFProDisplay-Regular, Helvetica, Arial, sans-serif;
+    font-size: 15px;
+    border: 1px solid #ccd0d5;
+    line-height: 230%;
+    margin-left:268px;
+    width: 121px;
+    outline:none;
+    text-indent: 10px;
+    margin-top:-35px;
+   }
+   input[class="radio1"]{
+    position: relative;
+    left:30px;
+   bottom:-2px ;
+   }
+   input[class="radio2"]{
+    position: relative;
+    bottom:-2px ;
+    left:50px;
+   }
+   input[class="radio3"]{
+    bottom:-2px ;
+    position: relative;
+    left:30px;
+   }
+   .contactinformation{
+    font-family: SFProDisplay-Regular, Helvetica, Arial, sans-serif ;
+    margin-top: -14px;
+    color: #777;
+    font-size:11px;
+    margin-left: 15px;
+    font-weight: lighter;
+    margin-bottom:-27px ;
+    }
+    .learnmore{
+        color: #385898;
+    font-weight: lighter;
+    font-size:11px;
+    text-decoration: none;
+    font-family: SFProDisplay-Regular, Helvetica, Arial, sans-serif ;
+    margin-left:69px;
+    }
+    .privacycookies{
+    font-family: SFProDisplay-Regular, Helvetica, Arial, sans-serif ;
+    font-size:11px;
+    font-weight: lighter;
+    color: #777;
+    margin-left:15px ;
+    }
+    .term{
+    text-decoration: none;
+    color: #385898;
+    }
+    .privacypolicy{
+        text-decoration: none;
+        color: #385898;
+        }
+    .cookiespolicy{
+            text-decoration: none;
+            color: #385898;
+            }
+    .signup{
+        background: none;
+        background-color: #00a400;
+        border: none;
+        border-radius: 8px;
+        box-shadow: none;
+        color: #fff;
+        font-size: 18px;
+        font-weight: 600;
+        height: 36px;
+        overflow: hidden;
+        padding: 0 32px;
+        text-shadow: none;
+        margin-left:115px;
+        width:45%;
+        margin-top:13px;
+        margin-bottom:20px ; 
+           }
+        .alreadyaccnt{
+        font-weight: lighter;
+        margin-left:118px;
+        text-decoration: none;
+        font-family: SFProDisplay-Regular, Helvetica, Arial, sans-serif ;font-size: 20px;
+        font-size:16px;
+        color:#1877f2;
+           }
+           ::-webkit-scrollbar {
+            width: 8px;
+          }
+          
+          ::-webkit-scrollbar-thumb {
+            background-color:rgb(144, 144, 144);
+            border-radius: 5px;
+          }
+          
+          ::-webkit-scrollbar-track {
+            background-color: #fff;
+          }
+          .languages{
+        font-family: SFProDisplay-Regular, Helvetica, Arial, sans-serif ;font-size: 20px;
+        font-size:12px;
+        word-spacing:5px;
+        padding-top: 100px;
+        padding-left: 245px;
+         }
+         .english{
+            color: #777;
+         }
+         .മലയാളം{
+            text-decoration: none;
+            color: #385898;  
+         }
+         .Français{
+            text-decoration: none;
+            color: #385898;  
+            word-spacing: -1px;
+         }
+         .Português{
+            text-decoration: none;
+            color: #385898;  
+            word-spacing: -1px; 
+        }
+         .Español{
+            text-decoration: none;
+            color: #385898;  
+         }
+         .తెలుగు{
+            text-decoration: none;
+            color: #385898;  
+         }
+        .বাংলা{
+            text-decoration: none;
+            color: #385898;  
+        }
+        .urudu{
+            text-decoration: none;
+            color: #385898;  
+        }
+         .hindi{
+            text-decoration: none;
+            color: #385898;  
+         }
+         .ಕನ್ನಡ{
+            text-decoration: none;
+            color: #385898;  
+         }
+         .தமிழ்{
+            text-decoration: none;
+            color: #385898;  
+         }
+         .plus {
+            width: 28px;
+            height: 19px;
+            background-color: #f1f1f1;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            border:1px solid #d1d1d2;
+            margin-left:880px;
+            border-radius:2px;
+            margin-top:-16px;
+          }
+          .plus:before, .plus:after {
+            content: "";
+            position: absolute;
+            height: 12px;
+            width: 2px;
+            background-color: #626262;
+          }
+          
+          .plus:before {
+            transform: rotate(90deg);
+          }
+          
+          .plus:after {
+            transform: rotate(0deg);
+          }
+          .hrline{
+            width:965px;
+            margin-left:245px;
+          }
+         .bottmprt{
+            font-family: SFProDisplay-Regular, Helvetica, Arial, sans-serif ;font-size: 20px;
+            font-size:12px;
+            word-spacing:15px;
+            margin-left:245px;
+            line-height:20px;
+        }
+          .SignUpp{
+            text-decoration: none;
+            word-spacing:-1px;
+            color: #385898;  
+         }
+          .Login{
+            text-decoration: none;
+            color: #385898;  
+         }
+          .Messenger{
+            text-decoration: none;
+            color: #385898;  
+         }
+          .FacebookLite{
+            text-decoration: none;
+            word-spacing:-1px;
+            color: #385898;  
+         }
+          .Watch{
+            text-decoration: none;
+            color: #385898;  
+         }
+          .Places{
+            text-decoration: none;
+            color: #385898;  
+         }
+          .Games{
+            text-decoration: none;
+            color: #385898;  
+         }
+         .Marketplace{
+            text-decoration: none;
+            color: #385898;  
+         }
+          .MetaPay{
+            text-decoration: none;
+            word-spacing:-1px;
+            color: #385898;  
+         }
+          .MetaStore{
+            text-decoration: none;
+            word-spacing:-1px;
+            color: #385898;  
+         }
+          .MetaQuest{
+            text-decoration: none;
+            word-spacing:-1px;
+            color: #385898;  
+         }
+          .Instagram{
+            text-decoration: none;
+            color: #385898;  
+         }
+          .Fundraisers{
+            text-decoration: none;
+            color: #385898;  
+         }
+          .Services{
+            text-decoration: none;
+            color: #385898;  
+         }
+          .ServicesVotingInformation{
+            text-decoration: none;
+            word-spacing:-1px;
+            color: #385898;  
+         }
+          .PrivacyPolicy{
+            text-decoration: none;
+            word-spacing:-1px;
+            color: #385898;  
+         }
+          .PrivacyCentre{
+            text-decoration: none;
+            word-spacing:-1px;
+            color: #385898;  
+         }
+          .Groups{
+            text-decoration: none;
+            color: #385898;  
+         }
+          .About{
+            text-decoration: none;
+            color: #385898;  
+         }
+          .Createad{
+            text-decoration: none;
+            word-spacing:-1px;
+            color: #385898;  
+         }
+          .CreatePage{
+            text-decoration: none;
+            word-spacing:-1px;
+            color: #385898;  
+         }
+          .Developers{
+            text-decoration: none;
+            color: #385898;  
+         }
+          .Careers{
+            text-decoration: none;
+            color: #385898;  
+         }
+          .Cookies{
+            text-decoration: none;
+            color: #385898;  
+         }
+          .AdChoices{
+            text-decoration: none;
+            color: #385898;  
+         } 
+          .Terms{
+            text-decoration: none;
+            color: #385898;  
+         }
+          .Help{
+            text-decoration: none;
+            color: #385898;  
+         }
+         .Contact{ text-decoration: none;
+            word-spacing:-1px;
+            color: #385898;  
+      }
+        .copy{
+            font-family: SFProDisplay-Regular, Helvetica, Arial, sans-serif ;font-size: 20px;
+            font-size:12px;
+            color: #777;  
+            margin-left:245px;
+            margin-top:20px; 
+            margin-bottom:20px;
+        }
